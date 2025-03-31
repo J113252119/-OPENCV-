@@ -20,5 +20,6 @@
 >4. pip install plotly
 
 ## 程式說明
->![](https://github.com/J113252119/-OPENCV-/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83%E5%A0%B1%E5%91%8A/Anaconda%20Navigator.JPG?raw=true)
->>![](https://github.com/J113252119/-OPENCV-/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83%E5%A0%B1%E5%91%8A/Jupyter%20Notebook.JPG?raw=true)
+>![](https://github.com/J113252119/-OPENCV-/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83%E5%A0%B1%E5%91%8A/COVID-19%20Table.JPG?raw=true)
+
+>>![](https://github.com/J113252119/-OPENCV-/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83%E5%A0%B1%E5%91%8A/COVID-19%20Line.JPG?raw=true)
